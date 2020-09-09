@@ -1,3 +1,16 @@
+
+contains all the required Control Unit Libraries.
+
+import this Libraries before running the code.
+
+
+
+
+
+
+
+
+/***********************************************************************************************************/
 Delete all the TFT libraries you have updated, and then follow me.
 Download [OPEN-SMART] TFT LCD Shield 3.2inch Update HX8352B.rar
 from  https://drive.google.com/open?id=0B6uNNXJ2z4CxYktCQlViUkI1Sms
