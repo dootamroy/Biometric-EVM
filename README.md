@@ -9,3 +9,5 @@ Arduino Based BIOMETRIC EVM
 
 
 **:bear: MODEL PPT :** [ppt link](https://drive.google.com/file/d/1bmWRSlzqbYf57u204TA_Qz4kdUzxk-1x/view?usp=sharing)
+
+https://drive.google.com/file/d/1VrX46cHMWNSn7sNFkHh7Z9onNDrSwnRG/view?usp=sharing
